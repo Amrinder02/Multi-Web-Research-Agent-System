@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+langchain
+langgraph
+openai
+python-dotenv
+redis
+sqlalchemy
+asyncpg
+psycopg2-binary
+httpx
+tavily-python
+pydantic
+python-multipart
+beautifulsoup4
+orjson
+loguru
