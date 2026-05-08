@@ -11,6 +11,7 @@ psycopg2-binary
 httpx
 tavily-python
 pydantic
+pydantic-settings
 python-multipart
 beautifulsoup4
 orjson
